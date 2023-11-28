@@ -1,2 +1,2 @@
-function gazo614(){document.getElementById('who614').innerHTML='<img src="./image/998.png" alt="コライドン">;}
+function imgchange6(){document.getElementById('gazo').src='./image/999.png';}
   
