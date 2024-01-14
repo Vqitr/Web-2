@@ -1,4 +1,4 @@
 function bmi(){
-  var x = (document.getElementById('taiju').value);
-  var y = (document.getElementById('shincho').value);
+  var x = Number(document.getElementById('taiju').value);
+  var y = Number(document.getElementById('shincho').value);
   alert((x / y) ^ );}
